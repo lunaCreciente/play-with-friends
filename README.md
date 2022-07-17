@@ -1,6 +1,6 @@
 # play-with-friends
 
-Welcome to the playground.
+Welcome to the kindergarten.
 
 Feel free to fork.
 
